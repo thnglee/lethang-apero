@@ -11,7 +11,7 @@ const experiences: ExperienceType[] = [
         company: 'ECOMUP',
         period: '01/2026 – Present',
         location: 'Hanoi',
-        description: 'Led market research and competitive analysis across product categories, identifying high-potential opportunities and validating demand before committing resources. Managed performance marketing campaigns across Google Ads and Facebook Ads, optimizing bid strategies, audience targeting, and creatives to hit ROAS targets. Built data dashboards to drive data-informed decisions on scaling priorities.',
+        description: 'Conducted market research and competitive analysis across product categories, identifying high-potential opportunities and validating demand before committing resources. Managed performance marketing campaigns across Google Ads and Facebook Ads, optimizing bid strategies, audience targeting, and creatives to hit ROAS targets. Built data dashboards to drive data-informed decisions on scaling priorities.',
         skills: ['Market Research', 'Performance Marketing', 'Go-to-Market', 'Data-driven Decision Making'],
         links: [],
         media: [

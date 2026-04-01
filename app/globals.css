@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+    --color-obsidian: #050505;
+    --color-gold-accent: #C5A47E;
+    --color-text-body: #A1A1A1;
+    --color-surface: #111111;
+
+    --font-sans: var(--font-inter);
+    --font-serif: var(--font-playfair);
+}
+
+:root {
+    color-scheme: dark;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--color-obsidian);
+    color: #fff;    
+}

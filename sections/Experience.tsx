@@ -11,8 +11,8 @@ const experiences: ExperienceType[] = [
         company: 'ECOMUP',
         period: '01/2026 – Present',
         location: 'Hanoi',
-        description: 'Led market research and competitive analysis across product categories, identifying high-potential opportunities and validating demand before committing resources. Coordinated cross-functional teams (marketing, product, operations) to execute go-to-market strategies. Built data dashboards to drive data-informed decisions on scaling priorities.',
-        skills: ['Market Research', 'Team Coordination', 'Go-to-Market', 'Data-driven Decision Making'],
+        description: 'Led market research and competitive analysis across product categories, identifying high-potential opportunities and validating demand before committing resources. Managed performance marketing campaigns across Google Ads and Facebook Ads, optimizing bid strategies, audience targeting, and creatives to hit ROAS targets. Built data dashboards to drive data-informed decisions on scaling priorities.',
+        skills: ['Market Research', 'Performance Marketing', 'Go-to-Market', 'Data-driven Decision Making'],
         links: [],
         media: [
             { type: 'image', src: '/ecomup/ecomup.jpg' }
@@ -24,7 +24,7 @@ const experiences: ExperienceType[] = [
         company: 'Tai Chinh Xanh JSC.',
         period: '09/2025 – 12/2025',
         location: 'Ha Noi',
-        description: 'Led day-to-day operations for the "Softie" brand as a founding team member, keeping marketing, operations, and finance aligned on growth targets. Managed Facebook Ads campaigns (2–5M VND/day), briefing ad concepts and iterating on underperforming creatives. Analyzed campaign and sales data to find cost-reduction and revenue-growth opportunities.',
+        description: 'Led day-to-day operations for the "Softie" brand as a founding team member, keeping marketing, operations, and finance aligned on growth targets. Managed Facebook Ads campaigns, briefing ad concepts and iterating on underperforming creatives to improve ROAS. Analyzed campaign and sales data to find cost-reduction and revenue-growth opportunities.',
         skills: ['Team Leadership', 'Startup Operations', 'Facebook Ads', 'Revenue Analysis'],
         links: [
             { text: 'Website', url: 'https://www.taichinhxanh.info/' },
@@ -41,8 +41,8 @@ const experiences: ExperienceType[] = [
         company: 'NextStart Incubator — NextTech',
         period: '06/2025 – 10/2025',
         location: 'Hanoi',
-        description: 'Selected into the inaugural cohort of NextTech\'s startup incubator. Led a cross-functional team (product, marketing, tech) to build and ship an MVP for a D2C AI companion device. Conducted market research, developed go-to-market strategies, and pitched growth plans to mentors and industry experts. Navigated ambiguity and resource constraints typical of early-stage ventures.',
-        skills: ['Startup Building', 'Market Research', 'MVP Development', 'Team Leadership'],
+        description: 'Selected into the inaugural cohort of NextTech\'s startup incubator. Worked with a team of talented software engineers to build and ship an MVP for a D2C AI companion device. Conducted market research, developed go-to-market strategies, and pitched growth plans to mentors and industry experts. Collaborated closely with mentors to validate assumptions and stay on the right path toward product-market fit.',
+        skills: ['Startup Building', 'Market Research', 'MVP Development', 'Product-Market Fit'],
         links: [
             { text: 'Article', url: 'https://trading.vietcap.com.vn/ai-news/post-detail/nextstart-incubator-vuon-uom-tai-nang-khoi-nghiep-chao-don-khoa-dau-tien' },
             { text: 'Project', url: 'https://nextcapy.studio' }

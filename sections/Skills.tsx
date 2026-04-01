@@ -18,9 +18,9 @@ const skills = [
     },
     {
         id: '03',
-        title: 'Team Leadership & Market Research',
-        description: 'Led cross-functional teams across multiple ventures, coordinating product, marketing, and operations toward shared goals. Conducted market research for product launches: trend analysis, competitor mapping, audience segmentation, and demand validation.',
-        href: '/#leadership'
+        title: 'Market Research & Business Analytics',
+        description: 'Conducted market research for product launches: trend analysis, competitor mapping, audience segmentation, and demand validation. Built dashboards and reports combining revenue, cost, and operational data to support strategic decisions.',
+        href: '/#research'
     }
 ];
 
